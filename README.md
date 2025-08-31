@@ -74,36 +74,11 @@ Dataset source: [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/bla
    cd telco-customer-churn
 Sure! Here’s a complete **README.md** template tailored for your Telco Customer Churn Prediction project using Flask and multiple ML models. It covers:
 
-* Project overview
-* Features
-* Dataset info
-* Installation and setup
-* Usage instructions
-* Model training explanation
-* Folder structure
-* Notes & improvements
-
----
 
 ````markdown
 # Telco Customer Churn Prediction Web App
 
 This project is a **Telecom Customer Churn Prediction** web application built with **Flask** and multiple machine learning models. It allows users to input customer information and predicts whether the customer is likely to churn or stay. The project demonstrates end-to-end ML lifecycle from data preprocessing, model training, evaluation, to deployment via a web interface.
-
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Dataset](#dataset)  
-- [Technologies](#technologies)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Model Training](#model-training)  
-- [Folder Structure](#folder-structure)  
-- [Notes & Future Improvements](#notes--future-improvements)  
-- [License](#license)
 
 ---
 
@@ -141,17 +116,6 @@ Dataset source: [Kaggle Telco Customer Churn Dataset](https://www.kaggle.com/bla
 
 ---
 
-## Technologies
-
-- Python 3.x  
-- Flask  
-- pandas  
-- scikit-learn  
-- xgboost  
-- joblib  
-- HTML/CSS (for frontend)
-
----
 
 ## Installation
 
